@@ -2,7 +2,7 @@ const strL = require('./stringLength');
 const reverseString = require('./reverseString');
 
 // for example dance == 5;
-describe('Tests', () => {
+describe('Test to check the length of a string', () => {
   test('string dance == 5', () => {
     const word = 'dance';
     const wordLength = strL(word);
@@ -16,10 +16,17 @@ describe('Tests', () => {
 
     expect(wordLength).toBe(20);
   });
-
-  test('Reverce Hello == olleH', () => {
+});
+describe('Test to check reversal of a string', () => {
+  test('Reverse Hello == olleH', () => {
     const word = 'Hello';
     const wordReverse = reverseString(word);
     expect(wordReverse).toBe('olleH');
+  });
+
+  test('Reverse dance == ecnad', () => {
+    const word = 'dance';
+    const wordReverse = reverseString(word);
+    expect(wordReverse).toBe('ecnad');
   });
 });
