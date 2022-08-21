@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-with-jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barakadanny/Unit-Testing-with-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barakadanny/Unit-Testing-with-Jest/issues"
+  },
+  "homepage": "https://github.com/barakadanny/Unit-Testing-with-Jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
