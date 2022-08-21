@@ -1,56 +1,35 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Unit Testing with Jest
 
-# Project Name
-
-> Description the project.
-
+> This project aim to test the functionality of different small projects. such as :
+> [] Reverse string: Testing the reverse of a given word
+> [] String Length: Testing the length of a given word
+> [] Calculator: Testing Add, Subtract, devise and Multiply
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- JavaScript
+- Jest
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- Install all dependencies with `npm install`
+- Run the tests with `npm test`
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
+- Basic understanding of JavaScript class and object
+- Basic understanding of Jest
 
 ### Run tests
 
-### Deployment
-
-
+- Run the tests with `npm test`
 
 ## Authors
 
-👤 **Author1**
+👤 **Baraka Danny**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Danny Baraka](https://github.com/barakadanny?tab=repositories)
+- LinkedIn: [Danny Baraka](https://www.linkedin.com/in/danny-baraka-589156169/)
 
 ## 🤝 Contributing
 
@@ -61,12 +40,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
